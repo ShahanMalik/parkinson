@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272215548438",
+    "project_id": "parkinson-app-f2d24",
+    "storage_bucket": "parkinson-app-f2d24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272215548438:android:a30681c56e7f5234adcb37",
+        "android_client_info": {
+          "package_name": "com.example.parkinson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7OtwoPcri6gREhGUmzF_PIqwdxIALj7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

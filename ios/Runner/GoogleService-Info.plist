@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAYrprJNmxYzhdn2HS3p2Q0yLtuIQ0pPQg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>272215548438</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.parkinson</string>
+	<key>PROJECT_ID</key>
+	<string>parkinson-app-f2d24</string>
+	<key>STORAGE_BUCKET</key>
+	<string>parkinson-app-f2d24.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:272215548438:ios:34e3d9072ee088f3adcb37</string>
+</dict>
+</plist>
